@@ -1,16 +1,16 @@
-# news_app
+# News App
 
-A new Flutter project.
+News App built with Flutter using news api for data.
 
-## Getting Started
+## Features
+- All news wih date and link to go for the detail view.
+- Trending news
+- Light & Dark mode
+- Bookmarks
+- share
+- search
 
-This project is a starting point for a Flutter application.
+# Demo
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/106549154/215319193-d676a632-8ce9-4d40-b360-697313e15287.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
