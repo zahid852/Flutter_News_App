@@ -3,7 +3,7 @@
 News App built with Flutter using news api for data.
 
 ## Features
-- All news wih date and link to go for the detail view.
+- All news with date and link to go for the detail view.
 - Trending news
 - Light & Dark mode
 - Bookmarks
